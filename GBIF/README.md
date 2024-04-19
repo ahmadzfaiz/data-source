@@ -1,0 +1,3 @@
+Data accessed through the GBIF network is free for all—but not free of obligations. Under the terms of the GBIF data user agreement, users who download individual datasets or search results and use them in research or policy agree to cite them using a DOI, or Digital Object Identifier.
+
+Data is extracted using APIs and filtered for Indonesia only. List of accessed GBIF ID is accessed on 18 April 2024.
